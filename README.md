@@ -10,4 +10,4 @@ I believe that this is due to the model not being provided enough data during th
 This is a limitation of the original dataset only containing around 500 houses. Which upon reflection is not enough data to create an accurate model.
 
 ## Want to read more?
-[Read more in then notebook]("")
+[Read more in the notebook]("")
