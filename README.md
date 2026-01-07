@@ -10,5 +10,5 @@ I believe that this is due to the model not being provided enough data during th
 This is a limitation of the original dataset only containing around 500 houses. Which upon reflection is not enough data to create an accurate model.
 
 ## Want to read more?
-[Read more in the notebook]("")
+[Read more in the notebook]("/LinearRegressionofHousePrices.ipynb")
 Note for Marker: I was unable to upload the ipnyb file to GitHub. I have instead uploaded it as part of the Zip File in my submission. Apologies.
